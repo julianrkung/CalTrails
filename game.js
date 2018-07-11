@@ -53,8 +53,8 @@ function createMenu() {
     rec1.graphics.setStrokeStyle(0, "round");
     rec1.graphics.beginStroke("rgba(0,50,98,.8)").beginFill("rgba(0,50,98,.8)").drawRect(145, 100, 710, 190);
 
-    var welcome = new createjs.Text('Berkeley VR', '70px VT323', white);
-    welcome.x = canvas.width/2 - 150;
+    var welcome = new createjs.Text('CalTrails VR', '70px VT323', white);
+    welcome.x = canvas.width/2 - 170;
     welcome.y = 120;
 
 
