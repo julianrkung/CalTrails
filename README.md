@@ -6,3 +6,5 @@ This project was created with 3 of my classmates (Ethan, Danlin, and Haoran) dur
 Caltrails is a Berkeley themed, oregon-trails-esque game with three playable characters.
 
 It was made using JavaScript and the createJS library and includes features such as that dynamic sprites, background images created through singular value decomposition (learned in linear algebra class), and random events that occur during the player's 8 semester tenure at the university.
+
+Personally, I implemented the initStateChanges function, some of the landmarkReached function, and centered some of the menu. I also helped come up with the algorithm used to calculate Happiness.
